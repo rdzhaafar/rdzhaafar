@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, my name is Rida 👋
+
+![Rida's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdzhaafar&hide=stars,issues,contribs&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdzhaafar&hide=yara,Jupyter%20Notebook,Emacs%20Lisp)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **rdzhaafar/rdzhaafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
